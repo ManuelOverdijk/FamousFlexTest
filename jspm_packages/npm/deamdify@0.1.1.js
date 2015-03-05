@@ -1,0 +1,1 @@
+module.exports = require("npm:deamdify@0.1.1/index");

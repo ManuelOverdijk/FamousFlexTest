@@ -1,0 +1,1 @@
+module.exports = require("npm:cssify@0.6.0/browser");

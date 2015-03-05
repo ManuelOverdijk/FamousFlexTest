@@ -1,0 +1,1 @@
+module.exports = require("github:IjzerenHein/famous-flex@0.2.0/dist/famous-flex-global.template");
